@@ -1,5 +1,5 @@
 import col from '@codelet/core'
-import { createWithLoading, isBoolean } from '@daysnap/utils'
+import { createWithLoading, isBoolean } from '@pkstar/utils'
 
 export type WithLoadingOptions = boolean | string | { title: string; mask?: boolean }
 

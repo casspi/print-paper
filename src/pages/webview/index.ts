@@ -9,7 +9,7 @@ import col, {
   parseEvent,
   parseQuery,
 } from '@codelet/core'
-import { formatPathParams } from '@daysnap/utils'
+import { formatPathParams } from '@pkstar/utils'
 
 import { userinfoStorage } from '@/utils'
 

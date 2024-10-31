@@ -1,5 +1,5 @@
 import { createWithError } from '@codelet/core'
-import { formatMessage } from '@daysnap/utils'
+import { formatMessage } from '@pkstar/utils'
 
 import { excludeMessage } from './excludeMessage'
 

@@ -3,7 +3,7 @@ import './index.wxml'
 import './index.scss'
 
 import { createPage } from '@codelet/core'
-import { sleep } from '@daysnap/utils'
+import { sleep } from '@pkstar/utils'
 
 import { withError, withLoading } from '@/utils'
 

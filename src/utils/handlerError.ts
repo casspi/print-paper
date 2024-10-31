@@ -1,5 +1,5 @@
 import col from '@codelet/core'
-import { formatMessage, isString } from '@daysnap/utils'
+import { formatMessage, isString } from '@pkstar/utils'
 
 import { __DEV__ } from './constant'
 import { excludeMessage } from './excludeMessage'
